@@ -1,0 +1,4 @@
+icrawler
+Pillow
+google-genai
+python-dotenv
